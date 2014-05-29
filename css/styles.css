@@ -14,9 +14,11 @@ img {
 h1 {
 	color: white;
   	font-family: helvetica, sans-serif;
+  	font-weight: normal;
 }
 
 h3 {
 	color: white;
   	font-family: helvetica, sans-serif;
+   	font-weight: normal;
 }
