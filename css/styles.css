@@ -12,12 +12,15 @@ img {
 }
 
 h1 {
+  	margin-top: 20%;
+  	text-align: center;
 	color: white;
   	font-family: helvetica, sans-serif;
   	font-weight: normal;
 }
 
 h3 {
+  	text-align: center;
 	color: white;
   	font-family: helvetica, sans-serif;
    	font-weight: lighter;
