@@ -10,6 +10,7 @@ img {
 	width: 40%;
 	margin: 0 auto;
   	text-align: center;
+  	position: relative;
 }
 
 h1 {
